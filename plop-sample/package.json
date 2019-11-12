@@ -1,0 +1,22 @@
+{
+  "name": "plop-sample",
+  "version": "3.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "bin": {
+    "qc": "./index.js"
+  },
+  "dependencies": {
+    "inquirer-directory": "^2.2.0",
+    "node-plop": "^0.23.0",
+    "plop": "^2.5.3",
+    "plop-pack-fancy-comments": "^0.2.1"
+  }
+}
